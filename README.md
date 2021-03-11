@@ -1,9 +1,9 @@
 # Resources to Learn Python for Data Science, ML, DL and Computer Vision ..
 
-## Here is a List of Websites and Tutorials that I found on the Internet over the time to Learn ```Python``` | ```Machine Learning ``` | ```Deep Learning ``` | ```Computer Vision ```
+#### Here is a List of Websites and Tutorials that I found on the Internet over the time to Learn ```Python``` | ```Machine Learning ``` | ```Deep Learning ``` | ```Computer Vision ```
 
 # Python 
-* ["https://www.thepythoncode.com/"](The Python Code)
+* [The Python Code](https://www.thepythoncode.com/)
 * ["https://www.pythoncheatsheet.org/"](Ultimate Python Cheatsheet) - This is one of the Best Written Python Cheatsheet I have ever Read.
 
 
