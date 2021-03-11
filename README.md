@@ -6,7 +6,7 @@ Here is a List of Websites and Tutorials that I found on the Internet over the t
 * [Ultimate Python Cheatsheet](https://www.pythoncheatsheet.org/) - This is one of the Best Written Python Cheatsheet I have ever Read.
 
 #  Deep Learning 
-* [https://pythonawesome.com/tag/deep-learning/](Python Awesome) - This has some of the Awesome and Easy Implementation of Deep Learning Techniques and Algorithms.
+* [Python Awesome](https://pythonawesome.com/tag/deep-learning/) - This has some of the Awesome and Easy Implementation of Deep Learning Techniques and Algorithms.
 
 # Machine Learning 
 
